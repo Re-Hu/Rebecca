@@ -1,3 +1,9 @@
+"""
+Project: CIS407-Sudoku-solve
+Author: Rebecca Hu
+Description: Solve the question that the users input. This file will be called by display
+"""
+
 # get the position of first empty (0)
 def start(sudoku):
   for x in range(4):
