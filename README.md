@@ -2,4 +2,4 @@
 CIS 407-Sudoku
 
 # Credits:
-Get some idea about hoe to generate solution, but I cannot find the link.
+Get some idea about how to generate solution, but I cannot find the link.
