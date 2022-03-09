@@ -1,3 +1,9 @@
+"""
+Project: CIS407-Sudoku
+Author: Rebecca Hu
+Description: A program which can automatically solve a 4 * 4 sudoku puzzles and the result will be shown as a visible window.
+"""
+
 import pygame
 import tkinter as tk
 import solve as solution
